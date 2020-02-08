@@ -8,7 +8,7 @@ to answer them all. You have 3 lifelines:`
 3. ask audience
 
 You can leave the game any time, because if your answer is wrong,
-you might lost your money. The safe questions are only 5th and 10th.
+you might lose your money. The safe questions are only 5th and 10th.
 Good luck!
 
 **Requirement**
